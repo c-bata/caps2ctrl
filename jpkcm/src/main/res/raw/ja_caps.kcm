@@ -101,6 +101,7 @@ key YEN {
   label:           '\u00a5'
   base:            '\u00a5'
   shift:           '|'
+  alt:             '\\'
 }
 
 key Q {
